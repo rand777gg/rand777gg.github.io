@@ -7,3 +7,5 @@ pages:
   url: /publications
 - name: Showcase
   url: /showcase
+- name: blog
+  url: https://blog.rand777.space/
